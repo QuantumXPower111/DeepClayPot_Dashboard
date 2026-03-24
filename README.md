@@ -1,5 +1,11 @@
 # 📈 Deep Claypot Dashboard (EODHD Edition)
 
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/claypot-dashboard/graphs/commit-activity)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 ## Overview
 The **Deep Claypot Dashboard** is a sentiment-aware trading dashboard built with **Python + Streamlit**.  
 It integrates real-time market data with NLP-driven sentiment analysis to enhance trading decisions.
